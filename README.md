@@ -34,4 +34,6 @@
 14. Realiza una copia a este repositorio remoto
     ![14](img/14.png)  
 15. Recuerda añadir estas instrucciones con los pantallazos en el fichero README.md
+    ![15](img/15.png)  
 16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  
+    ![16](img/16.png)  
